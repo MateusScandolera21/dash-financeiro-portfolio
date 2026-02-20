@@ -12,7 +12,7 @@ export function Header({ onNewTransaction }: Props) {
                         $
                     </div>
                     <h1 className="text-lg font-semibold text-white tracking-tight">
-                        Finanças
+                        Dashboard Financeiro
                     </h1>
                 </div>
 
